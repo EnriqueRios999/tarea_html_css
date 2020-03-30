@@ -1,0 +1,45 @@
+html{
+	background: white; 
+}
+body{
+	background:#CDC9C9;
+	padding-bottom: 5%;
+	margin-right: 10%;
+	margin-left: 10%;
+
+
+	
+}
+h1{
+	letter-spacing: 6px;
+	font-family: arial;
+	text-align:center;
+	padding-top: 3%;
+}
+h2{
+	background: grey;
+	margin-left: 3%;
+	margin-right: 3%;
+	color: white;
+	padding: 1% 0.5%;
+	font-family: arial;
+	
+	
+
+}
+
+
+img{
+	margin-left:7%;
+}
+footer{
+	padding-top: 3%;
+	text-align: center;
+	P
+
+}
+header{
+	text-align: justify;
+}
+
+
